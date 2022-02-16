@@ -1,7 +1,7 @@
 
  ### Hi there 👋
  I'm @CODE324B21 and Charles Karanja is my name, a current software developer and a software engineering student at Alx - Holberton.
-- 🔭 I’m currently working on Python projects
+- 🔭 I’m currently working on the basics
 - 👋 Hi, I’m @CODE324B21
 - 👀 I’m interested to learn all about software development
 - 🌱 I’m currently learning the basics of coding
