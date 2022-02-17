@@ -51,7 +51,7 @@
 
 <p align="left">
   <a href="https://www.instagram.com/_lyrical_ke/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
-  <a href="karanjacharles383@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://mail.google.com/karanjacharles383@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [CODE324B21](https://github.com/CODE324B21)
