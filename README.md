@@ -1,14 +1,22 @@
-<img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif">
-
+<img align="centre" alt="img" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="10%" height="10%" />
 <h2> Hey there! I'm Charles.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and learning to develop software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engeneering at ALX.
-- 🌱 &nbsp; Currently learning software development basics.
+- 🤔 &nbsp; Engaging in the exploration of emerging technologies while acquiring the skills to create software solutions and efficient shortcuts.
+- 🎓 &nbsp; Software Engeneering student at the University of Nairobi.
+- 🌱 &nbsp; I am currently pursuing BSc in Software Engineering at University of Nairobi.
+<img align="right" alt="img" src="https://handoff-cdn.appadvice.com/apptributes/us-east-1%3Af9757185-8fd9-4f9b-b3cf-2b4ad1dd2ab1/1566840495044_steambannernobeard.png" width="50%" height="90%" />
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+#### 🌱 Things I am currently working on: 
+- Om my Software Engeneering programme journey
+- Engaging in online courses focused on game development 
+
+#### :muscle: Things I am challenging myself with:
+- Rising early to maximize the productivity of the day.
+- Engaging in coding practice for a minimum of four hours daily.
+
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif)</sub>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
