@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Engaging in the exploration of emerging technologies while acquiring the skills to create software solutions and efficient shortcuts.
 - 🎓 &nbsp; Software Engeneering student at the University of Nairobi.
 - 🌱 &nbsp; I am currently pursuing BSc in Software Engineering at University of Nairobi.
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto"/>
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="40%"/>
 
 #### 🌱 Things I am currently working on: 
 - Om my Software Engeneering programme journey
